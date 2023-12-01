@@ -1,0 +1,4 @@
+id,tipo,titulo,genero,anoLancamento,classificacao,numDeEpisodios,listaEps
+1,ProgramaDeTV,The Office,Comédia,2005,14,9,"Pilot;Diversity Day;Health Care;Basketball;The Alliance;Hot Girl;The Dundies;Sexual Harassment;Office Olympics"
+2,ProgramaDeTV,Breaking Bad,Drama,2008,16,5,"Pilot;Cat's in the Bag...;...And the Bag's in the River;Cancer Man;Gray Matter;Crazy Handful of Nothin';A No-Rough-Stuff-Type Deal;Seven Thirty-Seven;Grilled"
+3,ProgramaDeTV,Game of Thrones,Fantasia,2011,18,8,"Winter Is Coming;The Kingsroad;Lord Snow;Cripples, Bastards, and Broken Things;The Wolf and the Lion;A Golden Crown;You Win or You Die;The Pointy End;Baelor"
